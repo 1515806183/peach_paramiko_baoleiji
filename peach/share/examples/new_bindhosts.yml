@@ -1,0 +1,57 @@
+
+
+bind1:
+  hostname: ximai_55
+  remote_users:
+    - user1:
+      username: root
+      auth_type: ssh-passwd
+      password: SXadmin#1234
+  groups:
+    - xm_group
+  user_profiles:
+    - peach
+    - taozi
+
+bind2:
+  hostname: ximai_70
+  remote_users:
+    - user1:
+      username: root
+      auth_type: ssh-passwd
+      password: SXadmin#1234
+  groups:
+    - xm_group
+
+  user_profiles:
+    - peach
+    - taozi
+
+
+bind3:
+  hostname: langchao_138
+  remote_users:
+    - user1:
+      username: root
+      auth_type: ssh-passwd
+      password: t505514601
+  groups:
+    - lc_group
+
+  user_profiles:
+    - peach
+    - taozi
+
+bind4:
+  hostname: langchao_112
+  remote_users:
+    - user1:
+      username: root
+      auth_type: ssh-passwd
+      password: t505514601
+  groups:
+    - lc_group
+
+  user_profiles:
+    - peach
+    - taozi

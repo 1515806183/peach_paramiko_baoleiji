@@ -1,0 +1,18 @@
+
+
+peach:
+  password: peach123
+#  groups:
+#    - web_servers
+#    - db_servers
+  #bind_hosts:
+  #  - h1
+  #  - h2
+  #  - h3
+taozi:
+  password: taozi123
+
+
+
+
+

@@ -1,0 +1,21 @@
+
+
+user0:
+  auth_type:  ssh-passwd
+  username: root
+  password: SXadmin#1234
+
+user1:
+  auth_type:  ssh-passwd
+  username: root
+  password: t505514601
+
+#user2:
+#  auth_type:  ssh-key
+#  username: root
+#  #password: abc!23
+#
+#user3:
+#  auth_type:  ssh-passwd
+#  username: alex
+#  password: alex3714

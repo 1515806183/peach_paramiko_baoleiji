@@ -1,0 +1,17 @@
+
+xm_group:
+#  bind_hosts:
+#    - server1
+#    - server2
+  user_profiles:
+    - peach
+    - taozi
+
+lc_group:
+#  bind_hosts:
+#    - server1
+#    - server2
+  user_profiles:
+    - peach
+
+
